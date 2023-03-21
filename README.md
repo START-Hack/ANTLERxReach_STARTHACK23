@@ -1,4 +1,7 @@
-# <p align="center"> REACH STARTHACK23 </p>
+# <p align="center"> Revolutionizing Elder Care with AI-Powered GetReach Extension for Conversational Robots </p>
+
+<img width="1087" alt="![ANtler](https://user-images.githubusercontent.com/120366987/226571969-ba3428f3-62d7-4762-b2af-9f16c7646bd1.png)
+">
 
 ## <p align="center"> Case Introduction: </p>
 

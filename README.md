@@ -1,6 +1,6 @@
 # <p align="center"> Revolutionizing Elder Care with AI-Powered GetReach Extension for Conversational Robots </p>
 
-<img width="1087" alt="Screenshot 2022-03-22 at 14 04 23" src="https://user-images.githubusercontent.com/120366987/226573698-f1b125c1-c5f8-4f06-8546-89a8ae9aa949.png">
+<img width="1087" alt="Screenshot 2022-03-22 at 14 04 23" src="https://user-images.githubusercontent.com/120366987/226574699-be3d2c86-46f6-4adf-99e9-8af95ad6759e.png">
 
 ## <p align="center"> Case Introduction: </p>
 

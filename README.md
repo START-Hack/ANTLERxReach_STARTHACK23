@@ -6,7 +6,7 @@ Welcome to the "AI Voice Chat" Hackathon, where we invite you to build a voice c
 
 ## <p align="center"> The Pitch: </p>
 
-[Pitch Deck](./Reach-Deck.pdf)
+<p align="center"> [Pitch Deck](./Reach-Deck.pdf) </p>
 
 ## <p align="center"> Deep Dive Slides: </p>
 

@@ -74,6 +74,7 @@ Improving quality of life for seniors by Enabling any standard TV to become a si
 - https://cocktailpeanut.github.io/dalai/#/
 - https://github.com/waylaidwanderer/node-chatgpt-api
 - https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API/Using_the_MediaStream_Recording_API
+- https://github.com/Genymobile/scrcpy
 
 ---
 

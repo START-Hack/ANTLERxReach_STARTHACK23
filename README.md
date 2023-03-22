@@ -49,6 +49,7 @@ Welcome to the "AI Voice Chat" Hackathon, where we invite you to build a voice c
 - https://cocktailpeanut.github.io/dalai/#/
 - https://github.com/waylaidwanderer/node-chatgpt-api
 - https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API/Using_the_MediaStream_Recording_API
+- https://github.com/Genymobile/scrcpy
 
 ## <p align="center"> Judging Criteria: </p>
 

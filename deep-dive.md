@@ -40,8 +40,8 @@ Improving quality of life for seniors by Enabling any standard TV to become a si
 # Expected Final Product
 
 - Website or AOSP App that we will integrate.
-  - a) a Website to invoke via webview
-  - b) an apk to launch
+  - a) a Website to invoke
+  - b) an apk to launch (Android 9, API 28)
 - It should work immediately after it's been launched.
 - No further interaction with the system outside voice will be possible.
 
@@ -53,12 +53,13 @@ Improving quality of life for seniors by Enabling any standard TV to become a si
 - We will stop & delete the instance after the challenge, reach out for the data
 - Google voice TTS / STT APIs
 - Sign up via form [2]
+- Go to [3], change project to start-hack-$id
 - Stop the instance & change the machine type at will
 - Need more permissions / instances? Write me a line. @ReachxAntler_Simon
 
 [1] https://cloud.google.com/compute/docs/gpus/
 [2] https://forms.gle/mbsnDYQsGgjjBvFF7
-https://console.cloud.google.com/
+[3] https://console.cloud.google.com/
 ---
 
 # Links

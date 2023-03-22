@@ -54,7 +54,7 @@ Welcome to the "AI Voice Chat" Hackathon, where we invite you to build a voice c
 
 - How well it can hold a conversation
 - How fast it answers
-
+- How well it runs on the target machine
 
 Extra Points: 
 - German

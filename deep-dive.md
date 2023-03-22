@@ -52,14 +52,20 @@ Improving quality of life for seniors by Enabling any standard TV to become a si
 - Access to google cloud, one instance
 - We will stop & delete the instance after the challenge, reach out for the data
 - Google voice TTS / STT APIs
-- Sign up via form [2]
-- Go to [3], change project to start-hack-$id
+- Sign up via form [1]
+
+[1] https://forms.gle/mbsnDYQsGgjjBvFF7
+
+---
+
+# Access the instance
+
+- Go to [1], change project to start-hack-$id
 - Stop the instance & change the machine type at will
 - Need more permissions / instances? Write me a line. @ReachxAntler_Simon
 
-[1] https://cloud.google.com/compute/docs/gpus/
-[2] https://forms.gle/mbsnDYQsGgjjBvFF7
-[3] https://console.cloud.google.com/
+[1] https://console.cloud.google.com/
+
 ---
 
 # Links
@@ -75,6 +81,7 @@ Improving quality of life for seniors by Enabling any standard TV to become a si
 
 - How well it can hold a conversation
 - How fast it answers
+- How well it runs on the target
 
 ## Extra points
 
